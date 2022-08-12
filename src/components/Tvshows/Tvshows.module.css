@@ -1,0 +1,12 @@
+.brdr {
+    height: 2px;
+    background-color: #a8a8a83d;
+}
+.rate {
+    /* width: 35%; */
+    padding: 10px;
+    background-color: #24baef;
+    position: absolute;
+    right: 0px;
+    top: -15px;
+}
