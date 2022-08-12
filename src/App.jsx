@@ -46,6 +46,7 @@ function App() {
       <div className="container">
         <Routes>
           <Route path='/' element={<ProtectedRoute><Home/></ProtectedRoute>}></Route>
+          <Route path='Noxe' element={<ProtectedRoute><Home/></ProtectedRoute>}></Route>
           <Route path='home' element={<ProtectedRoute><Home/></ProtectedRoute>}></Route>
           <Route path='movies' element={<ProtectedRoute><Movies/></ProtectedRoute>}></Route>
           <Route path='tvshows' element={<ProtectedRoute><Tvshows/></ProtectedRoute>}></Route>

@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <div className={`${styles.header} text-center d-flex align-items-center justify-content-center`}>
-        <h1>الحمد لله دايما.</h1>
+        <h1>Latest movies and tv shows.</h1>
       </div>
       <div className="row">
         <div className="col-md-4">
