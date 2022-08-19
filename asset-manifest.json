@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Noxe/static/css/main.4573baef.css",
-    "main.js": "/Noxe/static/js/main.9db2c6be.js",
+    "main.css": "/Noxe/static/css/main.06273bbe.css",
+    "main.js": "/Noxe/static/js/main.fb352336.js",
     "static/js/787.42994320.chunk.js": "/Noxe/static/js/787.42994320.chunk.js",
     "static/media/fa-solid-900.ttf": "/Noxe/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
     "static/media/fa-brands-400.ttf": "/Noxe/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/Noxe/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
     "static/media/fa-v4compatibility.woff2": "/Noxe/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
     "index.html": "/Noxe/index.html",
-    "main.4573baef.css.map": "/Noxe/static/css/main.4573baef.css.map",
-    "main.9db2c6be.js.map": "/Noxe/static/js/main.9db2c6be.js.map",
+    "main.06273bbe.css.map": "/Noxe/static/css/main.06273bbe.css.map",
+    "main.fb352336.js.map": "/Noxe/static/js/main.fb352336.js.map",
     "787.42994320.chunk.js.map": "/Noxe/static/js/787.42994320.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4573baef.css",
-    "static/js/main.9db2c6be.js"
+    "static/css/main.06273bbe.css",
+    "static/js/main.fb352336.js"
   ]
 }
