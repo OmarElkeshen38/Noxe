@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Noxe/static/css/main.6758a43d.css",
-    "main.js": "/Noxe/static/js/main.0b238056.js",
+    "main.css": "/Noxe/static/css/main.1b7ff519.css",
+    "main.js": "/Noxe/static/js/main.611a92d6.js",
     "static/media/header-img-1.jpeg": "/Noxe/static/media/header-img-1.8304e683337aecb1b160.jpeg",
     "static/media/item4.jpg": "/Noxe/static/media/item4.eaa32d72ad3d8d6da9d2.jpg",
     "static/media/item1.jpg": "/Noxe/static/media/item1.24d4438382966c2d0a2f.jpg",
@@ -16,11 +16,11 @@
     "static/media/fa-v4compatibility.ttf": "/Noxe/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/Noxe/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/Noxe/index.html",
-    "main.6758a43d.css.map": "/Noxe/static/css/main.6758a43d.css.map",
-    "main.0b238056.js.map": "/Noxe/static/js/main.0b238056.js.map"
+    "main.1b7ff519.css.map": "/Noxe/static/css/main.1b7ff519.css.map",
+    "main.611a92d6.js.map": "/Noxe/static/js/main.611a92d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6758a43d.css",
-    "static/js/main.0b238056.js"
+    "static/css/main.1b7ff519.css",
+    "static/js/main.611a92d6.js"
   ]
 }
