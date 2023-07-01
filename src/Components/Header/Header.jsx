@@ -22,17 +22,17 @@ export default function Header () {
                 <div className="slider col-md-5 col-lg-4">
                   <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel">
                     <div className="carousel-inner">
-                      <div className="carousel-item active">
-                        <img src={ImgItem2} className='w-100 rounded rounded-2' alt="" />
+                      <div className={`carousel-item active ${styles.cursoulImg}`}>
+                        <img src={ImgItem2} className={`d-block w-100 rounded rounded-2 ${styles.cursoulImg}`} alt="carousel image" />
                       </div>
-                      <div className="carousel-item">
-                        <img src={ImgItem1} className="d-block w-100 rounded rounded-2" alt="..." />
+                      <div className={`carousel-item ${styles.cursoulImg}`}>
+                        <img src={ImgItem1} className={`d-block w-100 rounded rounded-2 ${styles.cursoulImg}`} alt="carousel image" />
                       </div>
-                      <div className="carousel-item">
-                        <img src={ImgItem3} className="d-block w-100 rounded rounded-2" alt="..." />
+                      <div className={`carousel-item ${styles.cursoulImg}`}>
+                        <img src={ImgItem3} className={`d-block w-100 rounded rounded-2 ${styles.cursoulImg}`} alt="carousel image" />
                       </div>
-                      <div className="carousel-item">
-                        <img src={ImgItem4} className="d-block w-100 rounded rounded-2" alt="..." />
+                      <div className={`carousel-item ${styles.cursoulImg}`}>
+                        <img src={ImgItem4} className={`d-block w-100 rounded rounded-2 ${styles.cursoulImg}`} alt="carousel image" />
                       </div>
                     </div>
                   </div>

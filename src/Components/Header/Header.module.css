@@ -15,3 +15,11 @@
 .cartMovie {
     background-color: #6a82aab4;
 }
+
+
+@media (max-width:450px) {
+    .cursoulImg {
+        width: 50%;
+        height: 55vh;
+    }
+}
